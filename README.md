@@ -17,6 +17,6 @@ Verified missing value percentages and confirmed column data types.
 
 After cleaning, the dataset is now consistent, accurate, and ready for analysis or visualization.
 
-<img width="1382" height="777" alt="image" src="https://github.com/user-attachments/assets/dd50d0c2-c281-4b8f-b723-929c4ba53b09" />
+
 
 
