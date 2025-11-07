@@ -17,5 +17,6 @@ Verified missing value percentages and confirmed column data types.
 
 After cleaning, the dataset is now consistent, accurate, and ready for analysis or visualization.
 
-<img width="1536" height="1024" alt="ChatGPT Image Nov 7, 2025, 07_41_45 AM" src="https://github.com/user-attachments/assets/7b05961c-a722-413d-9f32-c4367615409b" />
+<img width="1382" height="777" alt="image" src="https://github.com/user-attachments/assets/dd50d0c2-c281-4b8f-b723-929c4ba53b09" />
+
 
